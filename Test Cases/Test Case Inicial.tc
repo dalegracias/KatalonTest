@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prueba de git, primer test case</description>
+   <name>Test Case Inicial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f98c910-25f5-46c0-b978-9ba2236d4c85</testCaseGuid>
+</TestCaseEntity>
