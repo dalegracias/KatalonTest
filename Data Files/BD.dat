@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>BD</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5393b57e-ab88-42fb-8d68-af7245046309</dataFileGUID>
+   <dataSourceUrl>jdbc:oracle:thin:@//ORADB11:1521/SIRH</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>VFJJVkVSQSQkMjAyMQ==</password>
+   <query>SELECT * FROM SIR.DEPENDENCIA WHERE CODIGO = '34'</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>TRIVERA</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
